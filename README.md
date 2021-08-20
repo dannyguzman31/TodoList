@@ -6,6 +6,8 @@ TodoList Web App is a JavaScript/EJS application that gives the user the ability
 * HTML5
 * CSS3
 * JavaScript 
+
+## Frameworks & Technologies
 * EJS
 * Node.js / NPM
 
